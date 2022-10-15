@@ -32,6 +32,11 @@ https://www.amazon.ca/PartsToMarker-Silver-Conductive-Adhesive-Application/dp/B0
 
 
 
+Nicvkel Pen
+
+https://www.amazon.ca/MG-Chemicals-841AR-P-Nickel-Conductive/dp/B01LYAA814/ref=sr_1_8?crid=1SN1LSTV9HBRH&keywords=conductive+epoxy+5+mil&qid=1665844624&sprefix=conductive+epoxy+5+mil%2Caps%2C130&sr=8-8
+
+
 
 
 
