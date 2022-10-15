@@ -19,6 +19,13 @@ https://www.techinstro.com/shop/silver-conductive/silver-conductive-ink/
 
 
 
+conductive siler glue
+
+https://www.amazon.ca/Conductive-Electrically-Adhesive-Viscosity-Electrical/dp/B08VNKCRBV/ref=sr_1_8?crid=M8ZDHRVKWVKI&keywords=conductive+glue&qid=1665844016&qu=eyJxc2MiOiI1LjE5IiwicXNhIjoiNC42NSIsInFzcCI6IjMuNjUifQ%3D%3D&sprefix=conductive+glue%2Caps%2C167&sr=8-8
+
+
+
+
 
 
 
