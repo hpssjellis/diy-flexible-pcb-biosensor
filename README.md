@@ -27,3 +27,10 @@ tramontocircuits
 
 https://www.tramontocircuits.com/technologies/flexible-circuits/double-sided-circuits/
 
+
+conductive inks
+
+https://www.creativematerials.com/products/
+
+
+
