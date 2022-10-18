@@ -33,6 +33,9 @@ void loop()
     }
     digitalWrite(13, isLEDOn);
     isLEDOn = !isLEDOn;
+    if (myDelay > 2000 ){
+      myDelay = 2000;
+      }
     delay(myDelay);  
     myOld = myNew;
 
