@@ -72,3 +72,13 @@ https://www.nature.com/articles/srep39909
 
 
 
+
+# good resource pages
+
+https://www.electronicdesign.com/magazine/51248?gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmN-dcuSV-jV6jBTwV9ZbHXholnJ8AdVY_umbrtecs_o4bka6ljdFBUaAi4hEALw_wcB
+
+
+
+
+
+
