@@ -34,3 +34,36 @@ https://www.creativematerials.com/products/
 
 
 
+
+
+
+
+
+
+.
+
+
+
+# Hashtags
+
+
+
+
+
+# To Tweet
+
+
+#### Oct 21 2022 done
+
+
+#bioSensor #flexibleSensor
+
+An ultralight, flexible, and biocompatible all-fiber motion sensor for artificial intelligence wearable electronics
+
+https://www.nature.com/articles/s41528-022-00158-8
+
+
+
+
+
+
