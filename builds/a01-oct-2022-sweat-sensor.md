@@ -8,6 +8,25 @@ connectivity through sweat. I tried some cotton absorbent but it did not seem to
 
 I started with it around the neck, but could not get a stable set of reading. On the wrist was better.
 
+
+
+<img width=600 src="https://user-images.githubusercontent.com/5605614/197810296-926fa443-0ede-4ac8-8e14-160a5c4039c6.jpg" />
+<img width=600 src="https://user-images.githubusercontent.com/5605614/197810310-5520b010-07a0-4fa2-aa91-0f926946889c.jpg" />
+<img width=600 src="https://user-images.githubusercontent.com/5605614/197810326-ac1986ed-6e2e-41df-aa04-5d82de0711e2.jpg" />
+
+<img width=600 src="https://user-images.githubusercontent.com/5605614/197810335-aa0e5012-0e11-4ed3-b7c0-06aecbdd8817.jpg" />
+
+<img width=600 src="https://user-images.githubusercontent.com/5605614/197810336-0ae76e5a-2472-4fed-b1bc-739c914459e5.jpg" />
+
+<img width=600 src="" />
+
+
+
+
+
+
+
+
 ![20221017_203317](https://user-images.githubusercontent.com/5605614/197810296-926fa443-0ede-4ac8-8e14-160a5c4039c6.jpg)
 ![Screenshot_20221025-080131_Gallery](https://user-images.githubusercontent.com/5605614/197810310-5520b010-07a0-4fa2-aa91-0f926946889c.jpg)
 ![20221017_231412](https://user-images.githubusercontent.com/5605614/197810326-ac1986ed-6e2e-41df-aa04-5d82de0711e2.jpg)
