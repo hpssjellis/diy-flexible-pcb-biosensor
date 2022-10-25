@@ -29,3 +29,8 @@ The wrist was better when tight.
 
 <img width=600 src="https://user-images.githubusercontent.com/5605614/197810336-0ae76e5a-2472-4fed-b1bc-739c914459e5.jpg" />
 
+
+
+
+
+Quick and easy to make prototype, showing some issues with the concept, but proving that prototyping flexible sensors has some value if just to prove something doesn't work well. The whole build took about 2 hours to make and program.
