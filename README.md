@@ -19,4 +19,8 @@ Check the builds folder for the latest dated builds.
 
 
 
+## Background
 
+Several manufactor are making flexible PCB's, but like all PCB's unless you make your own expect at least a 7 day wait and perhaps much more between iterations of your prototype. For testing BioSensors we proabbly don't need an entire chip on a flexible sheet, since we can attach a small arduino type mircocontroller with battery fairly easily. So the issue becomes how to moust a sensor on a flexible subtrate with perhaps a few inflexible componenets.
+
+Your final product will be manufactored because it si so cheap, but your prototypes might be more efficient to make them yourselves. That is what this repository with ISSUES is all about.
