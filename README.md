@@ -11,6 +11,8 @@ Probably not, but why not try!
 # Newcomers please check the issues and comment if you have any suggestions.
 
 
+Note: Copper might not be the best metal for flexible (moist environment) biosensors, perhaps gold is a better metal. (Why can't it be cheap!)
+
 
 
 
