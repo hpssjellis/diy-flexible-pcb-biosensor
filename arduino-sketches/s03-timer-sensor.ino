@@ -13,11 +13,12 @@ void setup() {
 void loop() {
     int myA0 = analogRead(A0);
     Serial.println("A0: " + String(myA0));
-    myDealy = 1111 - myA0;   // myA0 max is 1024 so this always has some value.
+    myDelay = 1111 - myA0;   // myA0 max is 1024 so this always has some value.
+    delay(10);  // just to slow it down a bit
     
     if ( (millis() - myStart ) >= myDelay) {       
        myStart = millis();      //  reset the delay time
-       mySwitch = !mySwitch;    // flip the switch ture <--> false
+       mySwitch = !mySwitch;    // flip the switch true <--> false
     }
     
     if (mySwitch){
