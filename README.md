@@ -1,6 +1,25 @@
 # DIY-flexible-PCB-biosensor
 
+
+
+
+
+
+
+
 Updated October 23, 2022
+
+
+
+Research use
+
+https://pubmed.ncbi.nlm.nih.gov/   only information 
+
+https://www.biorxiv.org/    Free pre-prints
+
+https://www.jove.com/   $100 a year
+
+
 
 # Open Source DIY-flexible-PCB-biosensor Misison Statement
 
