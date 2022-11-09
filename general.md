@@ -1,5 +1,9 @@
 # diy-flexible-pcb
 
+Good summary
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9280758/
+
 
 
 Another interesting manufactor of flexible TPU printing
