@@ -1,6 +1,13 @@
 # diy-flexible-pcb
 
 
+
+Another interesting manufactor of flexible TPU printing
+
+https://butlertechnologies.com/biometric-sensors
+
+
+
 Oshpark can make these
 
 http://docs.oshpark.com/services/flex/
