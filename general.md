@@ -6,6 +6,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9280758/
 
 
 
+ISFET   https://en.wikipedia.org/wiki/ISFET
+
 Another interesting manufactor of flexible TPU printing
 
 https://butlertechnologies.com/biometric-sensors
